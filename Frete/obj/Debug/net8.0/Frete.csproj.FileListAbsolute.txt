@@ -1,0 +1,14 @@
+C:\Users\Marcos Calera\source\repos\Frete\Frete\bin\Debug\net8.0\Frete.exe
+C:\Users\Marcos Calera\source\repos\Frete\Frete\bin\Debug\net8.0\Frete.deps.json
+C:\Users\Marcos Calera\source\repos\Frete\Frete\bin\Debug\net8.0\Frete.runtimeconfig.json
+C:\Users\Marcos Calera\source\repos\Frete\Frete\bin\Debug\net8.0\Frete.dll
+C:\Users\Marcos Calera\source\repos\Frete\Frete\bin\Debug\net8.0\Frete.pdb
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.AssemblyInfoInputs.cache
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.AssemblyInfo.cs
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.dll
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\refint\Frete.dll
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.pdb
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\Frete.genruntimeconfig.cache
+C:\Users\Marcos Calera\source\repos\Frete\Frete\obj\Debug\net8.0\ref\Frete.dll
